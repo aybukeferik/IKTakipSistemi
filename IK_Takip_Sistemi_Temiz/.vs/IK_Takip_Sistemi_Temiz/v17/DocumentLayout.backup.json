@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|c:\\users\\ayb\u00FCke\\desktop\\c# projelerim kendi\\ik_takip_sistemi_temiz\\ik_takip_sistemi_temiz\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\leaverequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\leavereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\leavereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\leavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\leavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\salaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\salaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\departmentemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\departmentemployeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\performancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\performancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.models\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\ik_takip_sistemi_temiz\\ik_takip.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CB1F2-6B6A-41A7-B0E9-29706C4DE0C1}|IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz.csproj|solutionrelative:ik_takip_sistemi_temiz\\ik_takip.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveApprovalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs [Design]",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:57:19.073Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveApprovalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\LeaveApprovalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:32:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\LeaveRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\LeaveRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\LeaveRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:45:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA+wJYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:09:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:27:30.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\ReportForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\ReportForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\ReportForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:20:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalaryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\SalaryForm.cs [Design]",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\SalaryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:59:03.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LoginForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LoginForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:01:49.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\DepartmentForm.cs [Design]",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\DepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:56:21.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:47:03.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\MainForm.cs [Design]",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:43:11.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DepartmentRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DepartmentRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:44:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\AuthRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\AuthRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:45:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\DepartmentForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:51:45.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\UserSession.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\UserSession.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\UserSession.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:23:43.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.BLL\\AuthService.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.BLL\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.BLL\\AuthService.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.BLL\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T00:04:34.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\EmployeeRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\EmployeeRepository.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAswLcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:44:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveRequestForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\LeaveRequestForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\LeaveRequestForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\LeaveRequestForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:10:18.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaveReport.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveReport.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveReport.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveReport.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:49:17.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveModel.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveModel.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveModel.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\LeaveModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:50:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\ReportRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\ReportRepository.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:19:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SalaryReport.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\SalaryReport.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\SalaryReport.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\SalaryReport.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\SalaryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:50:14.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\Program.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\Program.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:23:00.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Department.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Department.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:49:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentEmployeeReport.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\DepartmentEmployeeReport.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\DepartmentEmployeeReport.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\DepartmentEmployeeReport.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\DepartmentEmployeeReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:17:27.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PerformanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\PerformanceForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\PerformanceForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\PerformanceForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\PerformanceForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:31:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Performance.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Performance.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Performance.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Performance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:50:31.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PerformanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\PerformanceRepository.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\PerformanceRepository.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\PerformanceRepository.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\PerformanceRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:47:08.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SalaryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\SalaryForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:20:21.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Salaries.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Salaries.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Salaries.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Salaries.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.Models\\Salaries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:50:47.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DbConnection.cs",
+              "RelativeDocumentMoniker": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Ayb\u00FCke\\Desktop\\c# projelerim kendi\\IK_Takip_Sistemi_Temiz\\IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DbConnection.cs",
+              "RelativeToolTip": "IK_Takip_Sistemi_Temiz\\IK_Takip.DAL\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:43:40.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
