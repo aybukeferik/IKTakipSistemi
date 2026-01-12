@@ -1,56 +1,40 @@
-İK Takip Sistemi
-Projenin Amacı
+# İK Takip Sistemi
 
-Bu projenin amacı, insan kaynakları süreçlerini dijital ortamda yönetmeye yönelik temel bir İK Takip Sistemi geliştirmektir.
-Sistem; çalışan bilgileri, izin talepleri ve izin onay süreçlerinin kullanıcı ve yönetici rollerine göre yönetilmesini sağlar.
-Katmanlı mimari yaklaşımı ile veri erişimi, iş mantığı ve kullanıcı arayüzü birbirinden ayrılarak daha sürdürülebilir, bakımı kolay ve ölçeklenebilir bir yapı hedeflenmiştir.
+## Projenin Amacı
+Bu projenin amacı, insan kaynakları süreçlerini dijital ortamda yönetmeye yönelik temel bir **İK Takip Sistemi** geliştirmektir.  
+Sistem; çalışan bilgileri, izin talepleri ve izin onay süreçlerinin **kullanıcı** ve **yönetici** rollerine göre yönetilmesini sağlar.  
+Katmanlı mimari yaklaşımı ile veri erişimi, iş mantığı ve kullanıcı arayüzü birbirinden ayrılarak daha **sürdürülebilir**, **bakımı kolay** ve **ölçeklenebilir** bir yapı hedeflenmiştir.
 
-Proje Kapsamı
+## Proje Kapsamı
+- Çalışan bilgilerini listeleme ve yönetme  
+- Çalışanların izin talebi oluşturabilmesi  
+- Yöneticilerin izin taleplerini onaylama veya reddetme  
+- Rol bazlı yetkilendirme (Kullanıcı / Yönetici)  
+- Temel CRUD işlemleri  
 
-Çalışan bilgilerini listeleme ve yönetme
+## Kullanılan Teknolojiler ve Teknikler
+- C# / .NET (Windows Forms)  
+- MySQL  
+- Katmanlı Mimari (DAL, BLL, UI)  
+- Repository Pattern  
+- OOP (Nesne Yönelimli Programlama)  
+- Session Yönetimi  
 
-Çalışanların izin talebi oluşturabilmesi
+## Mimari Yapı
+- **DAL:** Veritabanı işlemleri  
+- **BLL:** İş kuralları  
+- **UI:** Kullanıcı arayüzü  
 
-Yöneticilerin izin taleplerini onaylama veya reddetme
+## Roller
+### Kullanıcı (Çalışan)
+- İzin talebi oluşturabilir  
+- Kendi izin geçmişini görüntüleyebilir  
 
-Rol bazlı yetkilendirme (Kullanıcı / Yönetici)
+### Yönetici
+- Tüm çalışanları görüntüleyebilir  
+- İzin taleplerini onaylayabilir veya reddedebilir  
 
-Temel CRUD (Create, Read, Update, Delete) işlemleri
+## Ekran Görüntüleri
+> Projeye ait ekran görüntüleri aşağıda yer almaktadır.
 
-Kullanılan Teknolojiler ve Teknikler
 
-C# / .NET (Windows Forms)
-
-MySQL (Veritabanı)
-
-Katmanlı Mimari (DAL, BLL, UI)
-
-Repository Pattern
-
-OOP (Nesne Yönelimli Programlama)
-
-Session Yönetimi
-
-Form Tabanlı Arayüz Tasarımı
-
-Mimari Yapı
-
-DAL (Data Access Layer): Veritabanı işlemleri
-
-BLL (Business Logic Layer): İş kuralları ve kontroller
-
-UI (User Interface): Kullanıcı arayüzü ve etkileşimler
-
-Roller
-
-Kullanıcı (Çalışan):
-
-İzin talebi oluşturabilir
-
-Kendi izin geçmişini görüntüleyebilir
-
-Yönetici:
-
-Tüm çalışanları görüntüleyebilir
-
-İzin taleplerini onaylayabilir veya reddedebilir
