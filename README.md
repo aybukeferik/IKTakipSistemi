@@ -37,33 +37,34 @@ Katmanlı mimari yaklaşımı ile veri erişimi, iş mantığı ve kullanıcı a
 ## Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](screenshots/login.png)
+<img width="463" height="324" alt="login" src="https://github.com/user-attachments/assets/44357cf5-33e3-4c56-b817-2d19b32f9f02" />
 
 ### Kullanıcı Ana Sayfası
-![Kullanıcı Ana Sayfası](screenshots/user_main_form.png)
+<img width="445" height="237" alt="user_main_form" src="https://github.com/user-attachments/assets/79ce3b64-3e09-4acc-b0c2-972b7c0a6ff3" />
 
-### Yönetici Ana Sayfası
-![Yönetici Ana Sayfası](screenshots/admin_ik_main_form.png)
+### Yönetici ve İK Ana Sayfası
+<img width="705" height="392" alt="admin_ık_main_form" src="https://github.com/user-attachments/assets/42edc395-2453-4b68-a6c1-1d6e51bd5942" />
 
 ### Departman Yönetimi
-![Departman Yönetimi](screenshots/department.png)
+<img width="597" height="317" alt="department" src="https://github.com/user-attachments/assets/bdfff664-cafd-482e-a4f8-0949af90b87e" />
 
 ### Çalışan Listesi
-![Çalışan Listesi](screenshots/employee_list.png)
+<img width="931" height="482" alt="employee_list" src="https://github.com/user-attachments/assets/12b775d5-412b-4c73-aaef-f0561abf71d4" />
 
 ### İzin Talep Ekranı
-![İzin Talep Ekranı](screenshots/leave_request.png)
+<img width="732" height="429" alt="leave_request" src="https://github.com/user-attachments/assets/237b77e1-2346-4cf5-84d4-0fe906252979" />
 
 ### İzin Onay Ekranı
-![İzin Onay Ekranı](screenshots/leave_approval.png)
+<img width="731" height="415" alt="leave_approval" src="https://github.com/user-attachments/assets/b83ba7f2-7393-49f7-b568-cbdeb9bebeda" />
 
 ### Performans Yönetimi
-![Performans Yönetimi](screenshots/performance.png)
+<img width="749" height="425" alt="performance" src="https://github.com/user-attachments/assets/1ad99f44-b686-4983-aa58-b06e2bfa01ec" />
 
 ### Maaş Yönetimi
-![Maaş Yönetimi](screenshots/salary.png)
+<img width="513" height="412" alt="salary" src="https://github.com/user-attachments/assets/d7cc2641-500f-4c11-972e-a8b904d36e6f" />
 
 ### Raporlama Ekranı
-![Raporlama Ekranı](screenshots/report.png)
+<img width="765" height="434" alt="report" src="https://github.com/user-attachments/assets/13d76933-e85c-47aa-b116-592a15aee2d5" />
+
 
 
