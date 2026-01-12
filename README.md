@@ -35,6 +35,35 @@ Katmanlı mimari yaklaşımı ile veri erişimi, iş mantığı ve kullanıcı a
 - İzin taleplerini onaylayabilir veya reddedebilir  
 
 ## Ekran Görüntüleri
-> Projeye ait ekran görüntüleri aşağıda yer almaktadır.
+
+### Giriş Ekranı
+![Giriş Ekranı](screenshots/login.png)
+
+### Kullanıcı Ana Sayfası
+![Kullanıcı Ana Sayfası](screenshots/user_main_form.png)
+
+### Yönetici Ana Sayfası
+![Yönetici Ana Sayfası](screenshots/admin_ik_main_form.png)
+
+### Departman Yönetimi
+![Departman Yönetimi](screenshots/department.png)
+
+### Çalışan Listesi
+![Çalışan Listesi](screenshots/employee_list.png)
+
+### İzin Talep Ekranı
+![İzin Talep Ekranı](screenshots/leave_request.png)
+
+### İzin Onay Ekranı
+![İzin Onay Ekranı](screenshots/leave_approval.png)
+
+### Performans Yönetimi
+![Performans Yönetimi](screenshots/performance.png)
+
+### Maaş Yönetimi
+![Maaş Yönetimi](screenshots/salary.png)
+
+### Raporlama Ekranı
+![Raporlama Ekranı](screenshots/report.png)
 
 
